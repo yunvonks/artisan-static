@@ -7,13 +7,11 @@
 
     <p>Situs Ini Nantinya Akan Menjadi Menjadi Blog Yang Membahas Seputar Teknologi.</p>
 
-    <p>The HTML, CSS and JavaScript in this template are extremely minimal, which makes the code easy to build on top of or replace completely.</p>
+    <p> Ikuti saja perkembangan blog ini 😎.</p>
 
-    <a href="https://fakhrurpedia.com" target="_blank" rel="noopener">
-        <img src="{{ media('fakhrurpedia.png') }}" alt="ko-fi" width="223" height="30">
-    </a>
+    
 
-    <h2 id="test">Asset Compilation Test</h2>
+    <h2 id="test">Made With ❤️</h2>
 
     <p>CSS test: <span class="test-css">text with blue border</span></p>
 
