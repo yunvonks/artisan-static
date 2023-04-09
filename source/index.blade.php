@@ -1,11 +1,11 @@
 @extends('_layouts.master')
 
 @section('content')
-    <h1>TechnologyEsclair</h1>
+    <h1>Technology Esclair</h1>
 
-    <p>Artisan Static is a starter template for building a static Jigsaw blog hosted on Netlify.</p>
+    <p>Technology Esclair Merupakan Situs Web Yang Dikembangkan Oleh Fakhrurpedia Incrementals Network.</p>
 
-    <p>This comes with code highlighting, share buttons, comments, analytics, an RSS feed, a contact form, a CMS and more.</p>
+    <p>Situs Ini Nantinya Akan Menjadi Menjadi Blog Yang Membahas Seputar Teknologi.</p>
 
     <p>The HTML, CSS and JavaScript in this template are extremely minimal, which makes the code easy to build on top of or replace completely.</p>
 
